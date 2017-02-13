@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="dining_button">Dining</string>
+    <string name="breakfast_button">Breakfast</string>
+    <string name="lunch_button">Lunch</string>
+    <string name="dinner_button">Dinner</string>
+    <string name="camera_btn">Take a pic</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="preference_file_key">assignment.cs342.thomas.menuapp.PREFERENCE_FILE_KEY</string>
+    <string name="saved_date_key">assignment.cs342.thomas.menuapp.SAVED_DATE</string>
+    <string name="third_party_sign_in">Third Party Sign In</string>
+</resources>

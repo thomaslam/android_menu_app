@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_5cd64dccfe77132be66215bb15f0eae6268d9376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_749037bd62eef9822edd8075be0466c69f80b9c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_ead46b442b05494cea55a90d465172d4bd1cb7c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_f25d30b56051f9470815db0755e89cb48c983906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_3a8976dc9f7cc6a23203fc25f381ef392104cf38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_4b83cd2762508d98e674de11bbe90266f0779ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_d12d4a10aac9b20bb32948e3247c05afaf89dfc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_92f71fe9e470e7d6d1289dcecb70550bc113b833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_4d7173b243498f9137098cac8c89da41a4473009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_735708c0cdc9eeda4f144c0ea8b547339f5cc30b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_b498fadc7d72cc91595bcd667fc4fa85a0102cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_98de1c5e957eb91f38995dd437577f1c30abd096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_c12bd175ec564063b8d791ef90ba287200672c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_d0e3c90af0c7c70050fe6cd4474b9ffb3a47a003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba936502ca2096cfe4dce813a8244e7522a45fba">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1fab21dd5718c032082f6d94b332228cb3e49cb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_f43d8aafa51ffe18f9a9f626868b3d8866bf56a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_35e4fc2b77ab9cca7db55fd176458156b7fbab6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_ab5257d283e848fd0218ce707cc23b29a203287c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_94fe98d9f847061d59b19b7289654b8d5832ee2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_dd3f83463fdd91c4428b41b072a8677f61c31742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9834dae3db29b034b0520217fd1f1dddd709b4b">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/instant-run_0a256f41a0b60323e8ba72d60c37a8464bb038ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_b283b1188c8399d90d5dfa2177299affe13e5bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_2b98c0528503f4adbc80df53a5b6a7aa907e6227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/tlaminator/Documents/Academic/CS342-MobileComputing/menuapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_e2be351c4a7856d88465a98b0ed943511ac90a55.jar" />
+    </item>
+
+</items>

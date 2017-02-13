@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="50dp"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal">
+        <Button
+            android:id="@+id/breakfast_id"
+            android:layout_marginTop="50dp"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/breakfast_button"
+            android:onClick="displayMealMenu" />
+        <Button
+            android:id="@+id/lunch_id"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lunch_button"
+            android:onClick="displayMealMenu" />
+        <Button
+            android:id="@+id/dinner_id"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/dinner_button"
+            android:onClick="displayMealMenu" />
+    </LinearLayout>
+</LinearLayout>
