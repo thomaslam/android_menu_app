@@ -57,6 +57,11 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
     }
 
+    public void goToMapActivity(View view) {
+        Intent intent = new Intent(this, MapsActivity.class);
+        startActivity(intent);
+    }
+
     public void thirdPartySignIn(View view) {
         Intent intent = new Intent(this, ThirdPartySignInActivity.class);
         startActivity(intent);
@@ -99,6 +104,7 @@ public class MainActivity extends AppCompatActivity {
         CharSequence successfulSignIn = "Succesfully signed in!";
         CharSequence failSignIn = "No user found!";
         int duration = Toast.LENGTH_SHORT;
+        boolean found = false;
 
         try {
             InputStreamReader reader = new InputStreamReader(openFileInput(SignUpActivity.FILE_NAME));
@@ -114,6 +120,7 @@ public class MainActivity extends AppCompatActivity {
                 String password = tokens[1];
 
                 if (input_username.equals(username) && input_password.equals(password)) {
+                    found = true;
                     Toast toast = Toast.makeText(ctx, successfulSignIn, duration);
                     toast.show();
 
@@ -123,10 +130,12 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                 }
             }
-            Log.d("MainActivity", "No username found");
+            if (!found) {
+                Log.d("MainActivity", "No username found");
 
-            Toast toast = Toast.makeText(ctx, failSignIn, duration);
-            toast.show();
+                Toast toast = Toast.makeText(ctx, failSignIn, duration);
+                toast.show();
+            }
         } catch (IOException e) {
             Log.e("MainActivity", "Can't read account_names file");
         } finally {
