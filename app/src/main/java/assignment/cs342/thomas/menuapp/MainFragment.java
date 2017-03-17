@@ -226,6 +226,8 @@ public class MainFragment extends Fragment {
                     // diplays image in ImageView with id profile_img
                     ImageView mImageView = (ImageView) getView().findViewById(R.id.profile_img);
                     mImageView.setImageBitmap(imageBitmap);
+
+                    //
                 } else {
                     Log.d("MainFragment", "intent data is null");
                 }

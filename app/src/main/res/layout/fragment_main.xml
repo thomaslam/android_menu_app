@@ -58,14 +58,35 @@
             android:text="@string/map"
             android:onClick="goToMapActivity"/>
     </LinearLayout>
-    <Button
-        android:id="@+id/camera"
-        android:text="@string/camera_btn"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="5dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/camera"
+            android:text="@string/camera_btn"
+            android:layout_marginLeft="70dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/send_pic"
+            android:text="@string/send_pic_btn"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="sendPicToServer"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/view_gallery_btn"
+        android:layout_marginTop="10dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/view_gallery"
+        android:onClick="viewGallery"/>
     <ImageView
         android:id="@+id/profile_img"
         android:layout_marginTop="10dp"

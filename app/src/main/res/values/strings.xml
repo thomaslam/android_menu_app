@@ -12,4 +12,9 @@
     <string name="third_party_sign_in">Third Party Sign In</string>
     <string name="title_activity_maps">Map</string>
     <string name="map">Map</string>
+    <string name="send_pic_btn">Send pic to server</string>
+    <string name="send_pic_dialog">Picture details</string>
+    <string name="dialog_username_hint">Username</string>
+    <string name="dialog_descrip_hint">Description</string>
+    <string name="view_gallery">View Gallery</string>
 </resources>
